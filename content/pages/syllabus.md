@@ -29,15 +29,15 @@ Depending on time, we will also discuss applications in fields such as hardness 
 
 ## Textbook and Readings
 
-Most of the course will be based on a book by Ryan O'Donnell, which is available to purchase but also has a [free online version (PDF - 3.5 MB)](https://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf):  
+Most of the course will be based on a book by Ryan O'Donnell, which is available to purchase but also has a {{% resource_link "f1f55dab-b75c-4f84-ac4b-93c465ea829e" "free online version (PDF - 3.5 MB)" %}}:  
 
            O'Donnell, Ryan. *Analysis of Boolean Functions*. Cambridge University Press, New York, NY, 2014. ISBN: ‎9781107038325. 
 
 Similar courses have been given in:
 
-- [*Analysis of Boolean Functions*](https://www.avishaytal.org/cs294-analysis-of-boolean-functions) online course by Avishay Tal, Berkeley 
-- [*Boolean Function Analysis*](https://yuvalfilmus.cs.technion.ac.il/courses/?crid=615) course by Yuval Filmus, Technion 
--  [*Analysis of Boolean Functions*](http://www.cs.cmu.edu/~odonnell/aobf12/) online course by Ryan O'Donnell, Carnegie Mellon
+- {{% resource_link "eb42b728-61a3-4dbb-bce0-484ba6f86568" "*Analysis of Boolean Functions*" %}} online course by Avishay Tal, Berkeley 
+- {{% resource_link "9ce98db6-5384-4b91-a199-23ff89b99e9f" "*Boolean Function Analysis*" %}} course by Yuval Filmus, Technion 
+-  {{% resource_link "455a39be-c58c-4052-8b13-42e9c6179e0e" "*Analysis of Boolean Functions*" %}} online course by Ryan O'Donnell, Carnegie Mellon
 
 ## Requirements and Grading
 
